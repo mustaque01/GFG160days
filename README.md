@@ -58,12 +58,7 @@ I have successfully solved **all 160 questions**, covering **Arrays, Strings, Re
 - Strengthened concepts of **time complexity & space optimization**  
 - Gained confidence in **coding interviews & competitive programming**  
 
----
 
-# 🚀 GFG-160 DSA Challenge
-
-This repository contains my solutions for the **GeeksforGeeks 160 DSA Coding Challenge**.
-Over the course of **160 days**, I solved one problem daily, covering all important Data Structures & Algorithms concepts — from arrays to dynamic programming and graphs.
 
 ---
 
